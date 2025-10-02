@@ -48,3 +48,17 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+---
+
+## Tools & Libraries
+- **Languages:** Python
+- **Frameworks:** Flask, PyLucene
+- **Libraries:** BeautifulSoup, Requests, JSON
+- **Techniques:** Multithreading, Web Crawling, SimHash, Full-Text Search, Deduplication
+
+---
+
+## Team
+Developed in a team for CS180 (Spring 2025).
+Contributors: Joshua Ocharan, Joshua Pennington, Cat Huyen Phan, Caden Leung
+- [Original repository](https://github.com/CS-UCR/Spring-Crawler)
