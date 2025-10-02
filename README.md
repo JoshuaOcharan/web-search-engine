@@ -59,6 +59,6 @@ pip install -r requirements.txt
 ---
 
 ## Team
-Developed in a team for CS180 (Spring 2025).
+Developed by **Team 22** for CS172 (Spring 2025).
 Contributors: Joshua Ocharan, Joshua Pennington, Cat Huyen Phan, Caden Leung
 - [Original repository](https://github.com/CS-UCR/Spring-Crawler)
