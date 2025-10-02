@@ -1,6 +1,6 @@
 # Web Search Engine (Python, PyLucene, Flask)
 
-This project was developed as part of **CS180: Introduction to Information Retrieval** at the University of California, Riverside.  
+This project was developed as part of **CS172: Introduction to Information Retrieval** at the University of California, Riverside.  
 The goal was to design and implement a basic web search engine with crawling, deduplication, indexing, and ranked retrieval.
 
 This fork highlights **my contributions** to the project:  
